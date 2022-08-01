@@ -1,1 +1,1 @@
-point=dev
+point=master
