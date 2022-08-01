@@ -1,1 +1,1 @@
-point=1
+point=dev
